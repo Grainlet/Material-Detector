@@ -5,6 +5,7 @@ h1 {
     text-align: center;
     font-family: 'Oswald', sans-serif;
     font-size: 50px;
+    margin: 20px;
 }
 
 h3 {
@@ -21,12 +22,8 @@ body {
     color: white;
 }
 
-h1 {
-    margin: 20px;
-}
 
 #material-input {
-    padding: 10px;
     width: 300px;
     margin: 20px;
     border-radius: 5px;
@@ -53,4 +50,3 @@ button:hover {
     margin: 10px;
     font-size: 18px;
 }
-
