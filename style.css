@@ -5,7 +5,7 @@
 
 .background {
     background: #ddd;
-    background-size: 300%;
+    background-size: 1000%;
     background-image: var(--graadient);
     animation: bg-animation 25s infinite;
 }
