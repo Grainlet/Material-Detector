@@ -1,12 +1,12 @@
 :root {
-    --gradient: linear-gradient(90deg, green, blue, green);
+    --graadient: linear-gradient(90deg, blue, green, blue);
 
 }
 
 .background {
     background: #ddd;
     background-size: 300%;
-    background-image: var(--gradient);
+    background-image: var(--graadient);
     animation: bg-animation 25s infinite;
 }
 
