@@ -6,8 +6,8 @@
 .background {
     background: #ddd;
     background-size: 300%;
-     width: auto;
-     height: auto;
+    width: 1366;
+     height: 784;
     background-image: var(--graadient);
     animation: bg-animation 25s infinite;
 }
